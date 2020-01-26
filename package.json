@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@emotion/core": "^10.0.21",
-    "modern-normalize": "^0.5.0",
+    "modern-normalize": "^0.6.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2"
   },
